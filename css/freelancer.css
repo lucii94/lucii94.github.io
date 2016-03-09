@@ -83,8 +83,11 @@ header {
     text-align: center;
     color: #fff;
     background: #ff99cc;
+<<<<<<< HEAD
     /* modifiado el background el color de la pagina principal 
     */
+=======
+>>>>>>> 1bbde789a3dc78e619e4a3b6bfe4ef2658744b45
 }
 
 header .container {
